@@ -1,0 +1,222 @@
+<!DOCTYPE html>
+<html lang="en">
+
+  <!--#include file="header.html"-->
+
+  <body>
+
+    <!--#include file="navbar.html"-->
+
+    <div class="container">
+
+    <div class="jumbotron">
+    <h2>Computational Social Science: <br /> <small>Social Research in the Digital Age</small></h2>
+    <br />
+    <h5>Sociology 596</h5>
+    <h5>Princeton University</h5>
+    <h5>Fall 2016</h5>
+    <br />
+    <h5>Tuesday 2pm-5pm (first half of semester)</h5>
+    <h5>Location TBA</h5>
+    <h5>Instructor: <a href="http://www.princeton.edu/~mjs3/">Matthew Salganik</a href></h5>
+    </div>
+<hr>
+
+<h2>Overview</h2>
+<p>In the last decade we have witnessed the birth and rapid growth of Wikipedia, Google, Facebook, iPhones, Wi-Fi, YouTube, Twitter, and numerous other marvels of the digital age.  In addition to changing the way we live, these tools---and the technological revolution they are a part of---have fundamentally changed the way that we can learn about the social world.  We can now collect data about human behavior on a scale never before possible and with tremendous granularity and precision.  The ability to collect and process "big data" enables researchers to address core questions in the social sciences in new ways and opens up new areas of inquiry.</p>
+
+<p>This course on computational social science will emphasize social science rather than computation.  We will focus on how traditional concepts of research design in the social sciences can inform our understanding of new data sources, and how these new data sources might require us to update our thinking on research design.</p>
+
+<h4>Prerequisites</h4>
+<p>There are no official prerequisites for the course, and students from all departments are welcome.  Activities involving mathematics, statistics, and computer programming at the level in Soc 500 and Soc 504 will be in a separate, optional lab session.  Students without this level of background may find some of the reading challenging.  The reading will also assume a basic understanding of the process of social science research (equivalent to Soc 503), and students without this background may find some of the reading challenging.  Undergraduates interested in taking the course should contact the instructor for permission.</p>
+
+<h4>Course structure</h4>
+<p>Each three hour class will be a combination of lecture, discussion, and in-class activities.  In order to participate fully in class, you must do the readings. There will be no exam.</p>
+
+<h4>Auditors</h4>
+<p>This class requires active participation so auditors must complete all of the class assignments.</p>
+
+<h4>Grading</h4>
+<p>Your grade will be based on the following components:</p>
+
+<table class="table table-bordered">
+<tr>
+    <td>Response papers</td>
+    <td>75%</td>
+    <td>Each student will write a short response paper (2-3 pages) every week, except the first week. Students should view the papers as a chance to play with the ideas in the readings: look for contradictions, establish connections to your own research, develop empirical tests, etc. The response papers should not be simple summaries of the readings.  Your response paper should be double-spaced with 1.5 inch margins on all sides (in order to leave room for my feedback), and it should be emailed to Judie Miller by Monday at midnight on the day preceding the class.</td>
+  </tr>
+  <tr>
+    <td>Class participation</td>
+    <td>25%</td>
+    <td>I intend to make this class an active experience for students.  When we have discuss and in-class activities you should participate.</td>
+  </tr>
+</table>
+
+
+
+<h4>Auditors</h4>
+<p>If you are interested in auditing the course, you should contact the instruction for permission.  All auditors will be expected to complete all of the reading and assignments.</p>
+
+<h4 id="access">Open access</h4>
+<p>The prohibitive cost of academic journals means that many of the readings for this course are not available to everyone.  I have marked these closed access articles with a <img src="images/closed.png" height="12">.  Fortunately, some of the more recent scholarship in this area is freely available to everyone in the world. I have marked these open access article with a <img src="images/open.png" height="12">.  It is my hope that eventually I will be able to construct this syllabus using exclusively open access scholarship.  In the meantime, if you do not have access to a university library, copies of many of the closed access articles can be found through <a href="http://scholar.google.com">Google Scholar</a href>.</p>
+
+<hr>
+
+<h2>Introduction and Ethics <small>(September 20, 2016)</small></h2>
+
+<p>In this first class we will cover a broad overview of computational social science, focusing on both strengths and weaknesses.  The promise of social research in the digital age, however, also comes with a dark side. Our increased ability to collect, store, and analyze data increases our chances of inadvertently putting our research participants at risk. The procedures used to protect research subjects have evolved over many years, but the capabilities of Internet-era researchers are changing very quickly and new norms have not yet been established.</p>
+
+<!-- Overview -->
+
+<ul>
+  <li><a href="http://www.bitbybitbook.com/en/introduction/">Bit by Bit: Social Research in the Digital Age, Chapter 1: Introduction</a>. <a href="#access" class="oa"></a></li>
+  <li><a href="http://www.bitbybitbook.com/en/ethics/">Bit by Bit: Social Research in the Digital Age, Chapter 6: Ethics</a>. <a href="#access" class="oa"></a></li>
+</ul>
+
+<ul>
+  <li>Anderson, C. 2008. <a href="http://www.wired.com/science/discoveries/magazine/16-07/pb_theory">The End of Theory: The Data Deluge Makes the Scientific Method Obsolete.</a href> <i>Wired</i>. <a href="#access" class="oa"></a></li>
+  <li>Hanna Wallach video</li>
+  <li>David Donoho data science paper</li>
+</ul>
+
+<hr>
+
+<h2>Big data <small>(September 27, 2016)</small></h2>
+
+<p>Human behavior in the digital age often leaves behind traces, and these traces are being aggregated on a scale that is difficult to
+comprehend.  In this meeting we will discuss the strengths and weaknesses of using these traces for social research.</p>
+
+<ul>
+  <li><a href="http://www.bitbybitbook.com/en/introduction/">Bit by Bit: Social Research in the Digital Age, Chapter 2: Observing behavior</a></li>
+</ul>
+
+<!-- Counting things -->
+<ul>
+  <li>Farber. 2015. <a href="http://dx.doi.org/10.1093/qje/qjv026">Why you Can’t Find a Taxi in the Rain and Other Labor Supply Lessons from Cab Drivers.</a> <i>Quarterly Journal of Economics</i>. <a href="#access" class="ca"></a></li> [<a href="ftp://ftp.iza.org/RePEc/Discussionpaper/dp8562.pdf">open version</a>]
+</ul>
+
+<!-- Forecasting -->
+<ul>
+  <li>Helft. 2008. <a href="http://www.nytimes.com/2008/11/12/technology/internet/12flu.html">Google Uses Searches to Track Flu's Spread.</a href> <i>New York Times</i>. <a href="#access" class="oa"></a></li>
+  <li>Ginsberg et al. 2008. <a href="http://static.googleusercontent.com/media/research.google.com/en/us/archive/papers/detecting-influenza-epidemics.pdf">Detecting influenza epidemics using search engine query data.</a href> <i>Nature</i>. <a href="#access" class="oa"></a></li>
+  <li>Goel et al. 2010. <a href="http://dx.doi.org/10.1073/pnas.1005962107">Predicting consumer behavior with Web search.</a href> <i>PNAS</i>. <a href="#access" class="oa"></a></li>
+  <li>Lazer et al. 2014. <a href="http://gking.harvard.edu/files/gking/files/0314policyforumff.pdf">The Parable of Google Flu: Traps in Big Data Analysis.</a href> <i>Science</i> <a href="#access" class="oa"></a></li>
+  <li>Yang et al. 2015. <a href="">Accurate estimation of influenza epidemics using Google search data via ARGO.</a> <i>PNAS</i>. <a href="#access" class="ca"></a>. [<a href="http://arxiv.org/abs/1505.00864">open version</a>]
+  <li><a href="http://www.google.com/trends/correlate/comic">Google Correlate: The Comic Book.</a> <a href="#access" class="oa"></a></li>
+  <li>Spend 2 minutes playing with <a href="http://www.google.com/trends/">Google Trends</a> <a href="#access" class="oa"></a></li>
+  <li>Spend 2 minutes playing with <a href="http://www.google.com/trends/correlate">Google Correlate</a> <a href="#access" class="oa"></a></li>
+</ul>
+
+<!-- Approximating experiments -->
+<ul>
+  <li>Mas and Moretti. 2009. <a href="http://eml.berkeley.edu/~moretti/text20.pdf">Peers at Work.</a href> <i>American Economic Review</i>. <a href="#access" class="oa"></a></li>
+</ul>
+
+<hr>
+
+<h2>Surveys <small>(October 4, 2016)</small></h2>
+
+<p>Description of surveys </p>
+
+<ul>
+  <li><a href="http://www.bitbybitbook.com/en/running-experiments/">Bit by Bit: Social Research in the Digital Age, Chapter 3: Asking questions</a></li>
+</ul>
+
+<!-- Representation -->
+
+<ul>
+  <li>Doleac and Stein. 2013. <a href="http://dx.doi.org/10.1111/ecoj.12082">The Visible Hand: Race and Online Market Outcomes.</a href> <i>The Economic Journal.</i> <a href="#access" class="ca"></a> [<a href="http://onlinelibrary.wiley.com/doi/10.1111/ecoj.12082/suppinfo">replication data and code</a href>]</li>
+</ul>
+
+<!-- Measurement -->
+<ul>
+  <li>Salganik and Levy 2015. <a href="http://dx.doi.org/10.1371/journal.pone.0123483">Wiki Survey: Open and Quantifiable Social Data Collection.</a> <i>PLoS ONE</i> <a href="#access" class="oa"></a> [<a href="http://opr.princeton.edu/archive/ws/">replication data and code</a href>]</li>
+</ul>
+
+<!-- Linking -->
+<ul>
+  <li>Blumenstock. 2014. <a href="https://escholarship.org/uc/item/8zs63942">Calling for Better Measurement: Estimating an Individuals Wealth and Well-Being from Mobile Phone Transaction Records.</a> <i>ACM Conference on Knowledge Discovery and Mining (KDD), Workshop on Data Science for Social Good</i>. <a href="#access" class="oa"></a></li>
+  <li>Blumenstock et al. 2015. <a href="http://dx.doi.org/10.1126/science.aac4420">Predicting Poverty and Wealth from Mobile Phone Metadata.</a> <i>Science</i>  <a href="#access" class="ca"></a>.
+  <li>Kahn et al. 2015. <a href="http://dx.doi.org/10.1109/BigDataCongress.2015.107">Behavioral Modeling for Churn Prediction: Early Indicators and Accurate Predictors of Custom Defection and Loyalty.</a> <i>2015 IEEE International Congress on Big Data.</i> <a href="#access" class="oa"></a> (SKIM)</li>
+  <li>Blumenstock 2016. <a href="http://dx.doi.org/10.1126/science.aah5217">Fighting poverty with data.</a> <i>Science.</i> <a href="#access" class="ca"></a></li>
+  <li><LeCun et al. 2015. <a href="http://dx.doi.org/10.1038/nature14539">Deep learning</a> <i>Nature</i>. <a href="#access" class="ca"></a></li>
+  <li>Jean et al. 2016. <a href="http://dx.doi.org/10.1126/science.aaf7894">Combining satellite imagery and machine learning to predict poverty.</a> <i>Science.</i> <a href="#access" class="ca"></a></li>
+</ul>
+
+<hr>
+
+
+<h2>Running experiments <small>(October 11, 2016)</small></h2>
+
+<p>Description of experiments.</p>
+
+<!-- Overview -->
+
+<ul>
+  <li><a href="http://www.bitbybitbook.com/en/running-experiments/">Bit by Bit: Social Research in the Digital Age, Chapter 4: Running experiments</a></li>
+</ul>
+
+<!-- Use existing environments -->
+
+<ul>
+  <li>van de Rijt et al. 2014. <a href="http://dx.doi.org/10.1073/pnas.1316836111">Field Experiments of Success-Breeds-Success Dynamics.</a href> <i>PNAS</i> <a href="#access" class="oa"></a>.</li>
+  <li>Doleac and Stein. 2013. <a href="http://dx.doi.org/10.1111/ecoj.12082">The Visible Hand: Race and Online Market Outcomes.</a href> <i>The Economic Journal.</i> <a href="#access" class="ca"></a> [<a href="http://onlinelibrary.wiley.com/doi/10.1111/ecoj.12082/suppinfo">replication data and code</a href>]</li>
+</ul>
+
+<!-- Build your own experiment -->
+<ul>
+  <li>Salganik et al. 2006. <a href="http://dx.doi.org/10.1126/science.1121066">Experimental study of inequality and unpredictability in an artificial cultural market.</a href> <i>Science</i> <a href="#access" class="ca"></a> [<a href="http://opr.princeton.edu/archive/cm/">replication data</a href>]</li>
+</ul>
+
+<!-- Build your own product -->
+<ul>
+   <li>Harper and Konstan. 2016. <a href="http://dx.doi.org/10.1145/2827872">The MovieLens Datasets: History and Context</a> <i>ACM Transactions on Interactive Intelligent Systems (TiiS)</i> <a href="#access" class="ca"></a> [<a href="http://files.grouplens.org/papers/harper-tiis2015.pdf">open version</a>]
+</ul>
+
+<!-- Partner with the powerful -->
+<ul>
+  <li>Kramer et al. 2014. <a href="http://dx.doi.org/10.1073/pnas.1320040111">Experimental evidence of massive-scale emotional contagion through social networks.</a href> <i>PNAS</i>. <a href="#access" class="oa"></a></li>
+</ul>
+
+<hr>
+
+<h2>Mass collaborations <small>(October 18, 2016)</small></h2>
+
+<p>Description of mass collaboration.</p>
+
+<!-- Overview -->
+<ul>
+  <li><a href="http://www.bitbybitbook.com/en/mass-collaboration/">Bit by Bit: Social Research in the Digital Age, Chapter 5: Mass collaboration</a></li>
+</ul>
+
+<!-- Distributed data collection -->
+<ul>
+  <li>Tuite et al. 2011. <a href="https://homes.cs.washington.edu/~ktuite/photocity-chi2011.pdf">PhotoCity: Training Experts at Large-scale Image Acquisition Through a Competitive Game.</a href> <i>CHI</i>. <a href="#access" class="oa"></a></li>
+</ul>
+
+<hr>
+
+<h2>Student-selected topic and pitch day <small>(October 25, 2016)</small></h2>
+
+<p>For the final week of class, students will select the topic.  I'll update this page once the choice is complete.  In this final class, the students will also pitch their final projects.</p>
+
+<hr>
+
+<h4>Acknowledgements</h4>
+<p>This class was shaped by conversations with Brandon Stewart, especially his class on Text as Data from Spring 2016.</p>
+
+
+<br />
+<br />
+
+<!--#include file="footer.html"-->
+
+    </div> <!-- /container -->
+
+
+    <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+    <!-- Include all compiled plugins (below), or include individual files as needed -->
+    <script src="js/bootstrap.min.js"></script>
+  </body>
+</html>
