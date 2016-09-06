@@ -24,6 +24,16 @@
      <h3 id="piazza">Piazza</h3>
      <p>In this course we will be using Piazza for online class discussion. You will not be required to post, but the system is designed to get you help quickly and efficiently from classmates and me. Rather than emailing me questions, I encourage you to post your questions on Piazza. Here is our class page: <a href="https://piazza.com/class/iss26a5trbl6zj">https://piazza.com/class/iss26a5trbl6zj</a>.</p>
 
+     <h3 id="weekly-schedule">Weekly schedule</h3>
+     <p>Except for the first and last week, here is the schedule:</p>
+
+     <ul>
+       <li>Sunday at midnight: annotating the chapter using hypothes.is, upload research proposal
+       <li>Monday at midnight: give feedback on research proposal, upload feedback on chapter
+       <li>Tuesday, 2 - 5: class
+       <li>Thursday, 2 - 5: lab (optional)
+     </ul>
+
       <!--#include file="footer.html"-->
 
   </div>
