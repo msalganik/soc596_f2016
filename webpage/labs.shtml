@@ -10,12 +10,19 @@
   <div class="container">
 
     <h2>Labs</h3>
-    <p>more here.</p>
+    <p>For weeks 2, 3, 4, and 5, we will have a lab session where students can drop in and work together on a problem individually or in groups.  I will select a problem that I think should be completed in three hours and that allow you to practice important techniques.  The labs are optional, but I strongly recommend that you participate.  Getting your hands dirty with really problems is a great way to learn.</p>
 
-    <h4>Lab 2</h4>
-    <h4>Lab 3</h4>
-    <h4>Lab 4</h4>
-    <h4>Lab 5</h4>
+    <p>I encourage you to work on these problems in R, and I will not personally be able to support other languages.  But, if there are students who want to work on these problems in another language, they are welcome to support each other.</p>
+
+    <p>These problems will assume a level of math, statistics, and coding equivalent to Soc 500 and Soc 504 (the required statistics sequence for our first year Ph.D. students).</p>
+
+    <h4>Lab related to Big data</h4>
+
+    <h4>Lab related to Surveys</h4>
+
+    <h4>Lab related to Experiments</h4>
+
+    <h4>Lab related to Mass collaboration</h4>
 
     <!--#include file="footer.html"-->
 
