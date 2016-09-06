@@ -11,48 +11,18 @@
 
     <h3 id="time">Time and location</h3>
     <ul>
-      <li>Monday 1:30pm-3:00pm (Wallace Hall 165)</li>
-      <li>Monday 3:00pm-5:00pm (Stokes Library Computer Lab)</li>
-      <li>Wednesday 1:30pm-3:00pm (Wallace Hall 165)</li>
+      <li>Class: Tuesday 2pm-5pm (TBA)</li>
+      <li>Lab (optional): Thursday 2pm-5pm (TBA)</li>
     </ul>
 
     <h3 id="prereqs">Prerequisites</h3>
-    <p>This course is designed to be a continuation of Sociology 500. Therefore, I will assume that students have a basic understanding of hypothesis testing and linear regression. I will also assume that they have some familarity with R.</p>
-
-    <h3 id="software">Software</h3>
-    <p>Quantitative analysis requires computation, and working with modern tools empowers you to be more creative.</p>
-
-    <p>All software used in this class is free or open-source (or both):</p>
-    <ul>
-      <li><a href="http://www.r-project.org/">R</a href></li>
-      <li><a href="http://www.rstudio.com/">RStudio</a href></li>
-      <li>R Markdown</li>
-      <li>git</li>
-      <li>github</li>
-      <li>Many R packages such as:</li>
-      <ul>
-        <li>dplyr</li>
-        <li>ggplot2</li>
-      </ul>
-     </ul>
-
+    <p>There are no official prerequisites for the course, and students from all departments are welcome.  Activities involving mathematics, statistics, and computer programming at the level in Soc 500 and Soc 504 will be in a separate, optional lab session.  Students without this level of background may find some of the reading challenging.  The reading will also assume a basic understanding of the process of social science research (equivalent to Soc 503), and students without this background may find some of the reading challenging.  Undergraduates interested in taking the course should contact the instructor for permission.</p>
 
      <h3 id="collaboration">Collaboration policy</h3>
-     <p>You are encouraged to work together on the problem sets, but you must type all of your code yourself. That is, no copy-and-paste from other people's code. You would not copy-and-paste from someone else's paper, and you should treat code the same way.</p>
+     <p>You are encouraged to work together on the activities for the class, but you are only only able to put your name on projects to which you made an intellectual contribution.  If you have any doubts about what is appropriate, ask me.</p>
 
      <h3 id="piazza">Piazza</h3>
-     <p>In this course we will be using Piazza for online class discussion. You will not be required to post, but the system is designed to get you help quickly and efficiently from classmates, the preceptor, and the professor. Rather than emailing questions to the teaching staff, I encourage you to post your questions on Piazza. Here is our class page: <a href="https://piazza.com/class/i47flkr282afk">https://piazza.com/class/i47flkr282afk</a href>.</p>
-
-     <h3 id="code">Code conventions</h3>
-     <p>Throughout the course students will receive feedback on their code from the professor, the preceptor, and other students. Therefore, consistent code conventions are critical. All code written for this class should follow the <a href="https://google-styleguide.googlecode.com/svn/trunk/Rguide.xml">R style guide used at Google</a href>. Good coding style is an important way to increase the readability of your code.</p>
-
-      <h3 id="inspirations">Inspirations</h3>
-        <p>This class has evolved a lot since the <a href="http://www.princeton.edu/~mjs3/soc504_sp13.shtml">last time I taught it</a>.  There were three main intellectual inspirations for that:</p>
-        <ul>
-          <li>Data science</li>
-          <li>MOOCs (Massively Open Online Classes)</li>
-          <li>Open and reproducible research</li>
-        </ul>
+     <p>In this course we will be using Piazza for online class discussion. You will not be required to post, but the system is designed to get you help quickly and efficiently from classmates and me. Rather than emailing me questions, I encourage you to post your questions on Piazza. Here is our class page: <a href="https://piazza.com/class/iss26a5trbl6zj">https://piazza.com/class/iss26a5trbl6zj</a>.</p>
 
       <!--#include file="footer.html"-->
 

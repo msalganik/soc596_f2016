@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<!--#include file="header.html"-->
+
+<body>
+
+  <!--#include file="navbar.html"-->
+
+  <div class="container">
+
+    <h2>Labs</h3>
+    <p>more here.</p>
+
+    <h4>Lab 2</h4>
+    <h4>Lab 3</h4>
+    <h4>Lab 4</h4>
+    <h4>Lab 5</h4>
+
+    <!--#include file="footer.html"-->
+
+  </div>
+  <!-- /container -->
+
+</html>

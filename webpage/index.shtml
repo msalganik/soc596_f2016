@@ -18,7 +18,7 @@
     <br />
     <h5>Tuesday 2pm-5pm (first half of semester)</h5>
     <h5>Location TBA</h5>
-    <h5>Instructor: <a href="http://www.princeton.edu/~mjs3/">Matthew Salganik</a href></h5>
+    <h5>Instructor: <a href="http://www.princeton.edu/~mjs3/">Matthew Salganik</a></h5>
     </div>
 <hr>
 
@@ -27,13 +27,7 @@
 
 <p>This course on computational social science will emphasize social science rather than computation.  We will focus on how traditional concepts of research design in the social sciences can inform our understanding of new data sources, and how these new data sources might require us to update our thinking on research design.</p>
 
-<h4>Prerequisites</h4>
-<p>There are no official prerequisites for the course, and students from all departments are welcome.  Activities involving mathematics, statistics, and computer programming at the level in Soc 500 and Soc 504 will be in a separate, optional lab session.  Students without this level of background may find some of the reading challenging.  The reading will also assume a basic understanding of the process of social science research (equivalent to Soc 503), and students without this background may find some of the reading challenging.  Undergraduates interested in taking the course should contact the instructor for permission.</p>
-
-<h4>Course structure</h4>
-<p>Each three hour class will be a combination of lecture, discussion, and in-class activities.  In order to participate fully in class, you must do the readings. There will be no exam.</p>
-
-<h4>Course goals and learning objectives</h4>
+<h2>Course goals and learning objectives</h2>
   <ol>
     <li>Students will <emph>describe</emph> the opportunities and challenges that the digital age creates for social research.</li>
     <li>Students will <emph>evaluate</emph> existing modern social research from the perspectives of both social science and data science.</li>
@@ -41,32 +35,35 @@
     <li>Students will <emph>practice</emph> the techniques needed to actually conduct their proposed research (optional).</li>
   </ol>
 
-<h4>Auditors</h4>
-<p>This class requires active participation so auditors must complete all of the class assignments.</p>
+ <h4>Course Activities</h4>
+ <ul>
+    <li><emph>Collaborative annotation and feedback (x5)</emph>:  During this course we will read a draft of my manuscript <a href="http://www.bitbybitbook.com">Bit by Bit: Social Research in the Digital Age</a>.  Whenever you are assigned a chapter from this manuscript, there will be two assignments.  First, you will participate in a collaborative annotation of the document using <a href="https://hypothes.is/">hypothes.is</a>.  This annotation should be completed Sunday at midnight for material that we will discuss on Tuesday.  Second, you should post to Blackboard ideas about how each of the chapters should be improved.  This feedback should be completed by Monday at midnight for material that we will discuss on Tuesday.</li>
 
-<h4>Grading</h4>
-<p>Your grade will be based on the following components:</p>
+    <li><emph>Shorter research proposal (x2)</emph>: Between weeks 2 and 5, you will have to write 2 research proposals.  These proposals are described in more detail in the <a href="proposals.shtml">research proposal guidelines</a>.  Each proposal is limited to 800 words, and must be submitted Sunday at midnight.  As you will see, 800 words is quite short so use these words wisely.  You are encouraged to include figures and graphs to illustrate your ideas, and these do not count against your word limit.  These proposals can be done in teams.</li>
 
-<table class="table table-bordered">
-<tr>
-    <td>Response papers</td>
-    <td>75%</td>
-    <td>Each student will write a short response paper (2-3 pages) every week, except the first week. Students should view the papers as a chance to play with the ideas in the readings: look for contradictions, establish connections to your own research, develop empirical tests, etc. The response papers should not be simple summaries of the readings.  Your response paper should be double-spaced with 1.5 inch margins on all sides (in order to leave room for my feedback), and it should be emailed to Judie Miller by Monday at midnight on the day preceding the class.</td>
-  </tr>
-  <tr>
-    <td>Class participation</td>
-    <td>25%</td>
-    <td>I intend to make this class an active experience for students.  When we have discuss and in-class activities you should participate.</td>
-  </tr>
-</table>
+    <li><emph>Proposal review (x4)</emph>: For weeks 2, 3, 4, and 5, you will write a review of the proposals of your peers. These proposals are described in more detail in the <a href="proposals.shtml">research proposal review guidelines</a>.  The goal of your proposal review is to be as helpful as possible.  You must do the proposal review between Sunday at midnight (when the proposal is posted) and Monday at midnight.</li>
 
+   <li><emph>Longer research proposal (x1)</emph>: Building on your first two proposals, you will write be an extended research proposal, which could be an improved version of one your earlier research proposals.  This must be submitted Sunday, October 23 at midnight.  My hope is that the refined proposal will be completed by a team, and that this team will be interdisciplinary.  After you pitch your proposal in class on Tuesday, October 25, a final version of the proposal will be due Friday, October 28 at 5pm.</li>
+
+   <li><emph>Pitch (x1)</emph>: During the class you will have a chance to pitch your shorter proposals, and you will be expected to do a longer, more formal pitch of your longer research proposal.  You will have 5 minutes to pitch your proposal in person on our last day of class.  Then, as a class, we will spend 10 minutes discussing the proposal and how it can be improved.</li>
+
+   <li><emph>Overall manuscript feedback (x1)</emph>: After reading the entire manuscript and completing the class, you should send me a two-page review of the entire book manuscript.  This will be due Friday, October 28.</li>
+
+   <li><emph>Lab (x4) [Optional]</emph>:For students that want to practice the techniques needed to discuss this research, we will have drop-in labs 4 times during the course of the semester.  At the lab, students will work together on a single problem.  This lab is optional.</li>
+ </ul>
+
+<h4>Prerequisites</h4>
+<p>There are no official prerequisites for the course, and students from all departments are welcome.  Activities involving mathematics, statistics, and computer programming at the level in Soc 500 and Soc 504 will be in a separate, optional lab session.  Students without this level of background may find some of the reading challenging.  The reading will also assume a basic understanding of the process of social science research (equivalent to Soc 503), and students without this background may find some of the reading challenging.  Undergraduates interested in taking the course should contact the instructor for permission.</p>
+
+<h4>Course structure</h4>
+<p>Each three hour class will be a combination of lecture, discussion, and in-class activities.  In order to participate fully in class, you must do the readings. There will be no exam.</p>
 
 
 <h4>Auditors</h4>
 <p>If you are interested in auditing the course, you should contact the instruction for permission.  All auditors will be expected to complete all of the reading and assignments.</p>
 
 <h4 id="access">Open access</h4>
-<p>The prohibitive cost of academic journals means that many of the readings for this course are not available to everyone.  I have marked these closed access articles with a <img src="images/closed.png" height="12">.  Fortunately, some of the more recent scholarship in this area is freely available to everyone in the world. I have marked these open access article with a <img src="images/open.png" height="12">.  It is my hope that eventually I will be able to construct this syllabus using exclusively open access scholarship.  In the meantime, if you do not have access to a university library, copies of many of the closed access articles can be found through <a href="http://scholar.google.com">Google Scholar</a href>.</p>
+<p>The prohibitive cost of academic journals means that many of the readings for this course are not available to everyone.  I have marked these closed access articles with a <img src="images/closed.png" height="12">.  Fortunately, some of the more recent scholarship in this area is freely available to everyone in the world. I have marked these open access article with a <img src="images/open.png" height="12">.  It is my hope that eventually I will be able to construct this syllabus using exclusively open access scholarship.  In the meantime, if you do not have access to a university library, copies of many of the closed access articles can be found through <a href="http://scholar.google.com">Google Scholar</a>.</p>
 
 <hr>
 
@@ -82,7 +79,7 @@
 </ul>
 
 <ul>
-  <li>Anderson. 2008. <a href="http://www.wired.com/science/discoveries/magazine/16-07/pb_theory">The End of Theory: The Data Deluge Makes the Scientific Method Obsolete.</a href> <i>Wired</i>. <a href="#access" class="oa"></a></li>
+  <li>Anderson. 2008. <a href="http://www.wired.com/science/discoveries/magazine/16-07/pb_theory">The End of Theory: The Data Deluge Makes the Scientific Method Obsolete.</a> <i>Wired</i>. <a href="#access" class="oa"></a></li>
   <li>Donoho. 2015. <a href="http://courses.csail.mit.edu/18.337/2015/docs/50YearsDataScience.pdf">50 years of data science.</a> <i>Working paper</i>. <a href="#access" class="oa"></a></li>
   <li>Wallach 2015. <a href="http://videolectures.net/icml2015_wallach_social_science/">Computational Social Science</a>, Presented at International Conference on Machine Learning (ICML). Please watch part 1 and part 2.</li>
 </ul>
@@ -105,10 +102,10 @@ comprehend.  In this meeting we will discuss the strengths and weaknesses of usi
 
 <!-- Forecasting -->
 <ul>
-  <li>Helft. 2008. <a href="http://www.nytimes.com/2008/11/12/technology/internet/12flu.html">Google Uses Searches to Track Flu's Spread.</a href> <i>New York Times</i>. <a href="#access" class="oa"></a></li>
-  <li>Ginsberg et al. 2008. <a href="http://static.googleusercontent.com/media/research.google.com/en/us/archive/papers/detecting-influenza-epidemics.pdf">Detecting influenza epidemics using search engine query data.</a href> <i>Nature</i>. <a href="#access" class="oa"></a></li>
-  <li>Goel et al. 2010. <a href="http://dx.doi.org/10.1073/pnas.1005962107">Predicting consumer behavior with Web search.</a href> <i>PNAS</i>. <a href="#access" class="oa"></a></li>
-  <li>Lazer et al. 2014. <a href="http://gking.harvard.edu/files/gking/files/0314policyforumff.pdf">The Parable of Google Flu: Traps in Big Data Analysis.</a href> <i>Science</i> <a href="#access" class="oa"></a></li>
+  <li>Helft. 2008. <a href="http://www.nytimes.com/2008/11/12/technology/internet/12flu.html">Google Uses Searches to Track Flu's Spread.</a> <i>New York Times</i>. <a href="#access" class="oa"></a></li>
+  <li>Ginsberg et al. 2008. <a href="http://static.googleusercontent.com/media/research.google.com/en/us/archive/papers/detecting-influenza-epidemics.pdf">Detecting influenza epidemics using search engine query data.</a> <i>Nature</i>. <a href="#access" class="oa"></a></li>
+  <li>Goel et al. 2010. <a href="http://dx.doi.org/10.1073/pnas.1005962107">Predicting consumer behavior with Web search.</a> <i>PNAS</i>. <a href="#access" class="oa"></a></li>
+  <li>Lazer et al. 2014. <a href="http://gking.harvard.edu/files/gking/files/0314policyforumff.pdf">The Parable of Google Flu: Traps in Big Data Analysis.</a> <i>Science</i> <a href="#access" class="oa"></a></li>
   <li>Yang et al. 2015. <a href="">Accurate estimation of influenza epidemics using Google search data via ARGO.</a> <i>PNAS</i>. <a href="#access" class="ca"></a>. [<a href="http://arxiv.org/abs/1505.00864">open version</a>]
   <li><a href="http://www.google.com/trends/correlate/comic">Google Correlate: The Comic Book.</a> <a href="#access" class="oa"></a></li>
   <li>Spend 2 minutes playing with <a href="http://www.google.com/trends/">Google Trends</a> <a href="#access" class="oa"></a></li>
@@ -117,7 +114,7 @@ comprehend.  In this meeting we will discuss the strengths and weaknesses of usi
 
 <!-- Approximating experiments -->
 <ul>
-  <li>Mas and Moretti. 2009. <a href="http://eml.berkeley.edu/~moretti/text20.pdf">Peers at Work.</a href> <i>American Economic Review</i>. <a href="#access" class="oa"></a></li>
+  <li>Mas and Moretti. 2009. <a href="http://eml.berkeley.edu/~moretti/text20.pdf">Peers at Work.</a> <i>American Economic Review</i>. <a href="#access" class="oa"></a></li>
 </ul>
 
 <hr>
@@ -137,7 +134,7 @@ comprehend.  In this meeting we will discuss the strengths and weaknesses of usi
 
 <!-- Measurement -->
 <ul>
-  <li>Salganik and Levy 2015. <a href="http://dx.doi.org/10.1371/journal.pone.0123483">Wiki Survey: Open and Quantifiable Social Data Collection.</a> <i>PLoS ONE</i> <a href="#access" class="oa"></a> [<a href="http://opr.princeton.edu/archive/ws/">replication data and code</a href>]</li>
+  <li>Salganik and Levy 2015. <a href="http://dx.doi.org/10.1371/journal.pone.0123483">Wiki Survey: Open and Quantifiable Social Data Collection.</a> <i>PLoS ONE</i> <a href="#access" class="oa"></a> [<a href="http://opr.princeton.edu/archive/ws/">replication data and code</a>]</li>
 </ul>
 
 <!-- Linking -->
@@ -181,7 +178,7 @@ comprehend.  In this meeting we will discuss the strengths and weaknesses of usi
 
 <!-- Partner with the powerful -->
 <ul>
-  <li>Kramer et al. 2014. <a href="http://dx.doi.org/10.1073/pnas.1320040111">Experimental evidence of massive-scale emotional contagion through social networks.</a href> <i>PNAS</i>. <a href="#access" class="oa"></a></li>
+  <li>Kramer et al. 2014. <a href="http://dx.doi.org/10.1073/pnas.1320040111">Experimental evidence of massive-scale emotional contagion through social networks.</a> <i>PNAS</i>. <a href="#access" class="oa"></a></li>
 </ul>
 
 <hr>
