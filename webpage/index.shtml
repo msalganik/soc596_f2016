@@ -91,7 +91,7 @@
 
 <hr>
 
-<h2>Big data <small>(September 27, 2016)</small></h2>
+<h2 id="big_data">Big data <small>(September 27, 2016)</small></h2>
 
 <p>Human behavior in the digital age often leaves behind traces, and these traces are being aggregated by companies and governments on a massive scale that is difficult to comprehend.  In this class, we will discuss the strengths and weaknesses of using these big data sources for social research.  Then I'll describe three approaches that can help you learn from that data: counting things, forecasting, and approximating experiments.</p>
 
@@ -123,7 +123,7 @@
 
 <hr>
 
-<h2>Surveys <small>(October 4, 2016)</small></h2>
+<h2 id="surveys">Surveys <small>(October 4, 2016)</small></h2>
 
 <p>This week I'll begin by explaining that big data sources will not replace surveys.  In fact, the abundance of big data sources increases---not decreases---the value of surveys. Given that motivation, I’ll summarize the total survey error framework that was developed during the first two eras of survey research. This framework enables us to understand new approaches to representation (e.g., non-probability samples) and new approaches to measurement (e.g., new ways of asking questions to respondents). Finally, I’ll describe two research templates for linking survey data to big data sources.</p>
 
@@ -153,7 +153,7 @@
 
 <hr>
 
-<h2>Running experiments <small>(October 11, 2016)</small></h2>
+<h2 id="running_experiments">Running experiments <small>(October 11, 2016)</small></h2>
 
 <p>Randomized controlled experiments have proven to be a powerful way to learn about the social world, and in this class, we will see how you can use them in your research.  We will describe the difference between lab experiments and field experiments and the differences between analog experiments and digital experiments. Further, I’ll argue that digital field experiments can offer the best features of analog lab experiments (tight control) and analog field experiments (realism), all at a scale that was not possible previously. Next, I’ll describe three concepts---validity, heterogeneity of treatment effects, and mechanisms---that are critical for designing rich experiments. With that background, I’ll describe the trade-offs involved in the two main strategies for conducting digital experiments: doing it yourself or partnering with the powerful. Finally, I’ll conclude with some design advice about how you can take advantage of the real power of digital experiments and describe some of responsibility that comes with that power.</p>
 
@@ -186,7 +186,7 @@
 
 <hr>
 
-<h2>Mass collaborations <small>(October 18, 2016)</small></h2>
+<h2 id="mass_collaboration">Mass collaborations <small>(October 18, 2016)</small></h2>
 
 <p>Wikipedia is amazing. A mass collaboration of volunteers created a fantastic encyclopedia that is available to everyone. The key to Wikipedia’s success was not new knowledge; rather, it was a new form of collaboration. The digital age, fortunately, enables many new forms of collaboration. Thus, we should now ask: what massive scientific problems---problems that we could not solve individually---can we now tackle together?  Mass collaboration has a long, rich history in fields such as astronomy and ecology, but it is not yet common in social research. However, by describing successful projects from other fields and providing a few key organizing principles, I hope to convince you of two things. First, mass collaboration can be harnessed for social research. And, second, researchers who use mass collaboration will be able to solve problems that had previously seemed impossible. Although mass collaboration is often promoted as a way to save money, it is much more than that. As I will show, mass collaboration doesn’t just allow us to do research cheaper, it allows us to do research better.</p>
 
