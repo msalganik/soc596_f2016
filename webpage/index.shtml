@@ -17,7 +17,7 @@
     <h5>Fall 2016</h5>
     <br />
     <h5>Tuesday 2pm-5pm (first half of semester)</h5>
-    <h5>Location TBA</h5>
+    <h5>165 Wallace Hall</h5>
     <h5>Instructor: <a href="http://www.princeton.edu/~mjs3/">Matthew Salganik</a></h5>
     </div>
 <hr>
@@ -28,7 +28,7 @@
 <h4>Course goals and learning objectives</h4>
   <ol>
     <li>Students will <em>describe</em> the opportunities and challenges that the digital age creates for social research.</li>
-    <li>Students will <em>evaluate</em> existing modern social research from the perspectives of both social science and data science.</li>
+    <li>Students will <em>evaluate</em> modern social research from the perspectives of both social science and data science.</li>
     <li>Students will <em>create</em> modern research proposals that blend ideas from social science and data science.</li>
     <li>Students will <em>practice</em> the techniques needed to actually conduct their proposed research (optional).</li>
   </ol>
@@ -56,7 +56,7 @@
   <li><em>Overview:</em> I’ll begin each class describing the main themes of the week.  This should be shorter than is typical in a graduate seminar because I’ve already described these themes in my manuscript.</li>
   <li><em>Case studies:</em> We will discuss a few case studies in detail that serve to illustrate some important themes of the week.</li>
   <li><em>Discussion of proposals:</em> Students will take turns present their proposals, and there will be a student-led discussion of the proposals.</li>
-  <li><em>Preview:</em> At the end of class, I’ll preview some themes that you’ll encounter in the reading.</li>
+  <li><em>Preview:</em> At the end of class, I’ll preview some themes that you’ll encounter in the reading for next class.</li>
 </ul>
 
 <p>In general, the class will be a mix of professor-led discussion and student-led discussion.  As the semester progresses, I will expect the students to take an increasingly active role in the course.</p>
@@ -83,7 +83,7 @@
 <ul>
   <li>Anderson. 2008. <a href="http://www.wired.com/science/discoveries/magazine/16-07/pb_theory">The end of theory: The data deluge makes the scientific method obsolete.</a> <i>Wired</i>. <a href="#access" class="oa"></a></li>
   <li>Donoho. 2015. <a href="http://courses.csail.mit.edu/18.337/2015/docs/50YearsDataScience.pdf">50 years of data science.</a> <i>Working paper</i>. <a href="#access" class="oa"></a></li>
-  <li>Provost and Fawcett. 2013. <a href="http://dx.doi.org/10.1089/big.2013.1508">Data Science and its relationship to big data and data-driven decision making.</a> <i>Big Data</i> <a href="#access" class="ca"></a></li>
+  <li>Provost and Fawcett. 2013. <a href="http://dx.doi.org/10.1089/big.2013.1508">Data Science and its relationship to big data and data-driven decision making.</a> <i>Big Data</i>. <a href="#access" class="ca"></a></li>
   <li>Wallach. 2015. <a href="http://videolectures.net/icml2015_wallach_social_science/">Computational Social Science</a>, Presented at International Conference on Machine Learning (ICML). Please watch part 1 and part 2. <a href="#access" class="oa"></a></li>
 </ul>
 
@@ -91,7 +91,7 @@
 
 <h2 id="big_data">Big data <small>(September 27, 2016)</small></h2>
 
-<p>Human behavior in the digital age often leaves behind traces, and these traces are being aggregated by companies and governments on a massive scale that is difficult to comprehend.  In this class, we will discuss the strengths and weaknesses of using these big data sources for social research.  Then I'll describe three approaches that can help you learn from that data: counting things, forecasting, and approximating experiments.</p>
+<p>Human behavior in the digital age often leaves behind traces, and these traces are being aggregated by companies and governments on a massive scale.  In this class, we will discuss the strengths and weaknesses of using these big data sources for social research.  Then, I'll describe three approaches that can help you learn from these big data sources: counting things, forecasting, and approximating experiments.</p>
 
 <ul>
   <li><a href="http://www.bitbybitbook.com/en/introduction/">Bit by Bit: Social Research in the Digital Age, Chapter 2: Observing behavior</a></li>
@@ -108,7 +108,7 @@
   <li>Ginsberg et al. 2008. <a href="http://static.googleusercontent.com/media/research.google.com/en/us/archive/papers/detecting-influenza-epidemics.pdf">Detecting influenza epidemics using search engine query data.</a> <i>Nature</i>. <a href="#access" class="oa"></a></li>
   <li>Goel et al. 2010. <a href="http://dx.doi.org/10.1073/pnas.1005962107">Predicting consumer behavior with Web search.</a> <i>PNAS</i>. <a href="#access" class="oa"></a></li>
   <li>Lazer et al. 2014. <a href="http://gking.harvard.edu/files/gking/files/0314policyforumff.pdf">The Parable of Google Flu: Traps in Big Data Analysis.</a> <i>Science</i>. <a href="#access" class="oa"></a></li>
-  <li>Yang et al. 2015. <a href="">Accurate estimation of influenza epidemics using Google search data via ARGO.</a> <i>PNAS</i>. <a href="#access" class="ca"></a>. [<a href="http://arxiv.org/abs/1505.00864">open version</a>]
+  <li>Yang et al. 2015. <a href="http://dx.doi.org/10.1073/pnas.1515373112">Accurate estimation of influenza epidemics using Google search data via ARGO.</a> <i>PNAS</i>. <a href="#access" class="ca"></a> [<a href="http://arxiv.org/abs/1505.00864">open version</a>]
   <li><a href="http://www.google.com/trends/correlate/comic">Google Correlate: The Comic Book.</a> <a href="#access" class="oa"></a></li>
   <li>Spend 2 minutes playing with <a href="http://www.google.com/trends/">Google Trends</a> <a href="#access" class="oa"></a></li>
   <li>Spend 2 minutes playing with <a href="http://www.google.com/trends/correlate">Google Correlate</a> <a href="#access" class="oa"></a></li>
@@ -136,13 +136,13 @@
 
 <!-- Measurement -->
 <ul>
-  <li>Salganik and Levy 2015. <a href="http://dx.doi.org/10.1371/journal.pone.0123483">Wiki Survey: Open and Quantifiable Social Data Collection.</a> <i>PLoS ONE</i> <a href="#access" class="oa"></a> [<a href="http://opr.princeton.edu/archive/ws/">replication data and code</a>]</li>
+  <li>Salganik and Levy 2015. <a href="http://dx.doi.org/10.1371/journal.pone.0123483">Wiki Survey: Open and Quantifiable Social Data Collection.</a> <i>PLoS ONE</i>. <a href="#access" class="oa"></a> [<a href="http://opr.princeton.edu/archive/ws/">replication data and code</a>]</li>
 </ul>
 
 <!-- Linking -->
 <ul>
   <li>Blumenstock. 2014. <a href="https://escholarship.org/uc/item/8zs63942">Calling for Better Measurement: Estimating an Individuals Wealth and Well-Being from Mobile Phone Transaction Records.</a> <i>ACM Conference on Knowledge Discovery and Mining (KDD), Workshop on Data Science for Social Good</i>. <a href="#access" class="oa"></a></li>
-  <li>Blumenstock et al. 2015. <a href="http://dx.doi.org/10.1126/science.aac4420">Predicting Poverty and Wealth from Mobile Phone Metadata.</a> <i>Science</i>  <a href="#access" class="ca"></a>.
+  <li>Blumenstock et al. 2015. <a href="http://dx.doi.org/10.1126/science.aac4420">Predicting Poverty and Wealth from Mobile Phone Metadata.</a> <i>Science</i>. <a href="#access" class="ca"></a>
   <li>Kahn et al. 2015. <a href="http://dx.doi.org/10.1109/BigDataCongress.2015.107">Behavioral Modeling for Churn Prediction: Early Indicators and Accurate Predictors of Custom Defection and Loyalty.</a> <i>2015 IEEE International Congress on Big Data.</i> <a href="#access" class="oa"></a> (SKIM)</li>
   <li>Blumenstock 2016. <a href="http://dx.doi.org/10.1126/science.aah5217">Fighting poverty with data.</a> <i>Science.</i> <a href="#access" class="ca"></a></li>
   <li>LeCun et al. 2015. <a href="http://dx.doi.org/10.1038/nature14539">Deep learning.</a> <i>Nature</i>. <a href="#access" class="ca"></a></li>
@@ -163,18 +163,18 @@
 
 <!-- Use existing environments -->
 <ul>
-  <li>van de Rijt et al. 2014. <a href="http://dx.doi.org/10.1073/pnas.1316836111">Field Experiments of Success-Breeds-Success Dynamics.</a> <i>PNAS</i> <a href="#access" class="oa"></a>.</li>
+  <li>van de Rijt et al. 2014. <a href="http://dx.doi.org/10.1073/pnas.1316836111">Field Experiments of Success-Breeds-Success Dynamics.</a> <i>PNAS</i>. <a href="#access" class="oa"></a></li>
   <li>Doleac and Stein. 2013. <a href="http://dx.doi.org/10.1111/ecoj.12082">The Visible Hand: Race and Online Market Outcomes.</a> <i>The Economic Journal.</i> <a href="#access" class="ca"></a> [<a href="http://onlinelibrary.wiley.com/doi/10.1111/ecoj.12082/suppinfo">replication data and code</a>]</li>
 </ul>
 
 <!-- Build your own experiment -->
 <ul>
-  <li>Salganik et al. 2006. <a href="http://dx.doi.org/10.1126/science.1121066">Experimental study of inequality and unpredictability in an artificial cultural market.</a> <i>Science</i> <a href="#access" class="ca"></a> [<a href="http://opr.princeton.edu/archive/cm/">replication data</a>]</li>
+  <li>Salganik et al. 2006. <a href="http://dx.doi.org/10.1126/science.1121066">Experimental study of inequality and unpredictability in an artificial cultural market.</a> <i>Science</i>. <a href="#access" class="ca"></a> [<a href="http://opr.princeton.edu/archive/cm/">replication data</a>]</li>
 </ul>
 
 <!-- Build your own product -->
 <ul>
-   <li>Harper and Konstan. 2016. <a href="http://dx.doi.org/10.1145/2827872">The MovieLens Datasets: History and Context.</a> <i>ACM Transactions on Interactive Intelligent Systems (TiiS)</i> <a href="#access" class="ca"></a> [<a href="http://files.grouplens.org/papers/harper-tiis2015.pdf">open version</a>]
+   <li>Harper and Konstan. 2016. <a href="http://dx.doi.org/10.1145/2827872">The MovieLens Datasets: History and Context.</a> <i>ACM Transactions on Interactive Intelligent Systems (TiiS)</i>. <a href="#access" class="ca"></a> [<a href="http://files.grouplens.org/papers/harper-tiis2015.pdf">open version</a>]
 </ul>
 
 <!-- Partner with the powerful -->
