@@ -35,7 +35,7 @@
 
  <h4>Course activities</h4>
  <ul>
-    <li><em>Collaborative annotation and feedback (x5)</em>:  During this course we will read a draft of my manuscript <a href="http://www.bitbybitbook.com">Bit by Bit: Social Research in the Digital Age</a>.  Whenever you are assigned a chapter from this manuscript, there will be two assignments.  First, you will participate in a collaborative annotation of the document using <a href="https://hypothes.is/">hypothes.is</a>.  This annotation should be completed Sunday at midnight for material that we will discuss on Tuesday.  Second, you should post to Blackboard ideas about how each of the chapters should be improved.  This feedback should be completed by Monday at midnight for material that we will discuss on Tuesday.</li>
+    <li><em>Collaborative annotation and feedback (x5)</em>:  During this course we will read a draft of my manuscript <a href="http://www.bitbybitbook.com">Bit by Bit: Social Research in the Digital Age</a>.  Whenever you read a chapter from this manuscript, there will be two assignments.  First, you will participate in a collaborative annotation of the document using <a href="https://hypothes.is/">hypothes.is</a>.  This annotation should be completed Sunday at midnight for material that we will discuss on Tuesday.  Second, you should post to Blackboard ideas about how each of the chapters should be improved.  This feedback should be completed by Monday at midnight for material that we will discuss on Tuesday.</li>
 
     <li><em>Shorter research proposal (x2)</em>: Between weeks 2 and 5, you will have to write 2 short research proposals.  These proposals are described in more detail in the <a href="proposals.shtml">research proposal guidelines</a>.  These proposals can be done in teams.</li>
 
@@ -55,7 +55,7 @@
 <ul>
   <li><em>Overview:</em> I’ll begin each class describing the main themes of the week.  This should be shorter than is typical in a graduate seminar because I’ve already described these themes in my manuscript.</li>
   <li><em>Case studies:</em> We will discuss a few case studies in detail that serve to illustrate some important themes of the week.</li>
-  <li><em>Discussion of proposals:</em> Students will take turns present their proposals, and there will be a student-led discussion of the proposals.</li>
+  <li><em>Discussion of proposals:</em> Students will take turns presenting their proposals, and there will be a student-led discussion of the proposals.</li>
   <li><em>Preview:</em> At the end of class, I’ll preview some themes that you’ll encounter in the reading for next class.</li>
 </ul>
 
@@ -91,10 +91,10 @@
 
 <h2 id="big_data">Big data <small>(September 27, 2016)</small></h2>
 
-<p>Human behavior in the digital age often leaves behind traces, and these traces are being aggregated by companies and governments on a massive scale.  In this class, we will discuss the strengths and weaknesses of using these big data sources for social research.  Then, I'll describe three approaches that can help you learn from these big data sources: counting things, forecasting, and approximating experiments.</p>
+<p>Human behavior in the digital age often leaves behind traces, and these traces are being aggregated by companies and governments on a massive scale.  This week we will discuss the strengths and weaknesses of using these big data sources for social research.  Then, I'll describe three approaches that can help you learn from these big data sources: counting things, forecasting, and approximating experiments.</p>
 
 <ul>
-  <li><a href="http://www.bitbybitbook.com/en/introduction/">Bit by Bit: Social Research in the Digital Age, Chapter 2: Observing behavior</a></li>
+  <li><a href="http://www.bitbybitbook.com/en/introduction/">Bit by Bit: Social Research in the Digital Age, Chapter 2: Observing behavior.</a> <a href="#access" class="oa"></a></li>
 </ul>
 
 <!-- Counting things -->
@@ -110,8 +110,8 @@
   <li>Lazer et al. 2014. <a href="http://gking.harvard.edu/files/gking/files/0314policyforumff.pdf">The Parable of Google Flu: Traps in Big Data Analysis.</a> <i>Science</i>. <a href="#access" class="oa"></a></li>
   <li>Yang et al. 2015. <a href="http://dx.doi.org/10.1073/pnas.1515373112">Accurate estimation of influenza epidemics using Google search data via ARGO.</a> <i>PNAS</i>. <a href="#access" class="ca"></a> [<a href="http://arxiv.org/abs/1505.00864">open version</a>]
   <li><a href="http://www.google.com/trends/correlate/comic">Google Correlate: The Comic Book.</a> <a href="#access" class="oa"></a></li>
-  <li>Spend 2 minutes playing with <a href="http://www.google.com/trends/">Google Trends</a> <a href="#access" class="oa"></a></li>
-  <li>Spend 2 minutes playing with <a href="http://www.google.com/trends/correlate">Google Correlate</a> <a href="#access" class="oa"></a></li>
+  <li>Spend 2 minutes playing with <a href="http://www.google.com/trends/">Google Trends</a>. <a href="#access" class="oa"></a></li>
+  <li>Spend 2 minutes playing with <a href="http://www.google.com/trends/correlate">Google Correlate</a>. <a href="#access" class="oa"></a></li>
 </ul>
 
 <!-- Approximating experiments -->
@@ -126,7 +126,7 @@
 <p>This week I'll begin by explaining that big data sources will not replace surveys.  In fact, the abundance of big data sources increases---not decreases---the value of surveys. Given that motivation, I’ll summarize the total survey error framework that was developed during the first two eras of survey research. This framework enables us to understand new approaches to representation (e.g., non-probability samples) and new approaches to measurement (e.g., new ways of asking questions to respondents). Finally, I’ll describe two research templates for linking survey data to big data sources.</p>
 
 <ul>
-  <li><a href="http://www.bitbybitbook.com/en/running-experiments/">Bit by Bit: Social Research in the Digital Age, Chapter 3: Asking questions</a></li>
+  <li><a href="http://www.bitbybitbook.com/en/running-experiments/">Bit by Bit: Social Research in the Digital Age, Chapter 3: Asking questions.</a> <a href="#access" class="oa"></a></li>
 </ul>
 
 <!-- Representation -->
@@ -153,12 +153,12 @@
 
 <h2 id="running_experiments">Running experiments <small>(October 11, 2016)</small></h2>
 
-<p>Randomized controlled experiments have proven to be a powerful way to learn about the social world, and in this class, we will see how you can use them in your research.  We will describe the difference between lab experiments and field experiments and the differences between analog experiments and digital experiments. Further, I’ll argue that digital field experiments can offer the best features of analog lab experiments (tight control) and analog field experiments (realism), all at a scale that was not possible previously. Next, I’ll describe three concepts---validity, heterogeneity of treatment effects, and mechanisms---that are critical for designing rich experiments. With that background, I’ll describe the trade-offs involved in the two main strategies for conducting digital experiments: doing it yourself or partnering with the powerful. Finally, I’ll conclude with some design advice about how you can take advantage of the real power of digital experiments and describe some of responsibility that comes with that power.</p>
+<p>Randomized controlled experiments have proven to be a powerful way to learn about the social world, and this week we will see how you can use them in your research.  We will describe the difference between lab experiments and field experiments and the differences between analog experiments and digital experiments. Further, I’ll argue that digital field experiments can offer the best features of analog lab experiments (tight control) and analog field experiments (realism), all at a scale that was not possible previously. Next, I’ll describe three concepts---validity, heterogeneity of treatment effects, and mechanisms---that are critical for designing rich experiments. With that background, I’ll describe the trade-offs involved in the two main strategies for conducting digital experiments: doing it yourself or partnering with the powerful. Finally, I’ll conclude with some design advice about how you can take advantage of the real power of digital experiments and describe some of responsibility that comes with that power.</p>
 
 <!-- Overview -->
 
 <ul>
-  <li><a href="http://www.bitbybitbook.com/en/running-experiments/">Bit by Bit: Social Research in the Digital Age, Chapter 4: Running experiments</a></li>
+  <li><a href="http://www.bitbybitbook.com/en/running-experiments/">Bit by Bit: Social Research in the Digital Age, Chapter 4: Running experiments.</a> <a href="#access" class="oa"></a></li>
 </ul>
 
 <!-- Use existing environments -->
@@ -190,7 +190,7 @@
 
 <!-- Overview -->
 <ul>
-  <li><a href="http://www.bitbybitbook.com/en/mass-collaboration/">Bit by Bit: Social Research in the Digital Age, Chapter 5: Mass collaboration</a></li>
+  <li><a href="http://www.bitbybitbook.com/en/mass-collaboration/">Bit by Bit: Social Research in the Digital Age, Chapter 5: Mass collaboration.</a> <a href="#access" class="oa"></a></li>
 </ul>
 
 <!-- Mass collaboration -->
