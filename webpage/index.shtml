@@ -69,7 +69,7 @@
 
 <hr>
 
-<h2>Introduction and Ethics <small>(September 20, 2016)</small></h2>
+<h2 id="intro_ethics">Introduction and Ethics <small>(September 20, 2016)</small></h2>
 
 <p>In this first class we will cover a broad overview of computational social science, focusing on blending ideas from social science and data science.  A theme that runs throughout the course is ethics so we will cover it in the first week.</p>
 
@@ -211,7 +211,7 @@
 
 <hr>
 
-<h2>Student-selected topic and pitch day <small>(October 25, 2016)</small></h2>
+<h2 id="open_topic">Student-selected topic and pitch day <small>(October 25, 2016)</small></h2>
 
 <p>For the final week of class, students will select the topic.  I'll update the syllabus once the choice is complete.  In this final class, the students will also pitch their final projects.</p>
 
