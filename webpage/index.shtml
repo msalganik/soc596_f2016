@@ -85,6 +85,14 @@
   <li>Provost and Fawcett. 2013. <a href="http://dx.doi.org/10.1089/big.2013.1508">Data Science and its relationship to big data and data-driven decision making.</a> <i>Big Data</i>. <a href="logistics.shtml#access" class="ca"></a></li>
 </ul>
 
+<h5>Slides</h5>
+<ul>
+  <li><a href="https://github.com/msalganik/soc596_f2016/blob/master/slides/01-01-intro-computational-social-science.pdf">Intro to computational social science</a></li>
+  <li><a href="https://github.com/msalganik/soc596_f2016/blob/master/slides/01-02-intro-course.pdf">Intro to this class</a></li>
+  <li><a href="https://github.com/msalganik/soc596_f2016/blob/master/slides/01-03-ethics.pdf">Ethics</a></li>
+  <li><a href="https://github.com/msalganik/soc596_f2016/blob/master/slides/01-04-preview_big_data.pdf">Next class</a></li>
+</ul>
+
 <hr>
 
 <h2 id="big_data">Big data <small>(September 27, 2016)</small></h2>
@@ -117,6 +125,11 @@
   <li>Mas and Moretti. 2009. <a href="http://eml.berkeley.edu/~moretti/text20.pdf">Peers at Work.</a> <i>American Economic Review</i>. <a href="logistics.shtml#access" class="oa"></a></li>
 </ul>
 
+<h5>Slides</h5>
+<ul>
+  <li>Coming soon</li>
+</ul>
+
 <hr>
 
 <h2 id="surveys">Surveys <small>(October 4, 2016)</small></h2>
@@ -145,6 +158,11 @@
   <li>Blumenstock 2016. <a href="http://dx.doi.org/10.1126/science.aah5217">Fighting poverty with data.</a> <i>Science.</i> <a href="logistics.shtml#access" class="ca"></a></li>
   <li>LeCun et al. 2015. <a href="http://dx.doi.org/10.1038/nature14539">Deep learning.</a> <i>Nature</i>. <a href="logistics.shtml#access" class="ca"></a></li>
   <li>Jean et al. 2016. <a href="http://dx.doi.org/10.1126/science.aaf7894">Combining satellite imagery and machine learning to predict poverty.</a> <i>Science.</i> <a href="logistics.shtml#access" class="ca"></a></li>
+</ul>
+
+<h5>Slides</h5>
+<ul>
+  <li>Coming soon</li>
 </ul>
 
 <hr>
@@ -180,6 +198,11 @@
   <li>Kramer et al. 2014. <a href="http://dx.doi.org/10.1073/pnas.1320040111">Experimental evidence of massive-scale emotional contagion through social networks.</a> <i>PNAS</i>. <a href="logistics.shtml#access" class="oa"></a></li>
 </ul>
 
+<h5>Slides</h5>
+<ul>
+  <li>Coming soon</li>
+</ul>
+
 <hr>
 
 <h2 id="mass_collaboration">Mass collaborations <small>(October 18, 2016)</small></h2>
@@ -205,6 +228,11 @@
 <!-- Distributed data collection -->
 <ul>
   <li>Tuite et al. 2011. <a href="https://homes.cs.washington.edu/~ktuite/photocity-chi2011.pdf">PhotoCity: Training Experts at Large-scale Image Acquisition Through a Competitive Game.</a> <i>CHI</i>. <a href="logistics.shtml#access" class="oa"></a></li>
+</ul>
+
+<h5>Slides</h5>
+<ul>
+  <li>Coming soon</li>
 </ul>
 
 <hr>
