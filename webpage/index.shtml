@@ -62,10 +62,7 @@
 <p>In general, the class will be a mix of professor-led discussion and student-led discussion.  As the semester progresses, I will expect the students to take an increasingly active role in the course.</p>
 
 <h4>Logistics</h4>
-<p>See the <a href="logistics.shtml">logistics page</a> for more information about <a href="logistics.shtml#time">time and location</a>,  <a href="logistics.shtml#prereqs">prerequisites</a>, <a href="logistics.shtml#collaboration">collaboration policy</a>, <a href="logistics.shtml#piazza">Piazza</a>, and <a href="logistics.shtml">grading</a>.</p>
-
-<h4 id="access">Open access</h4>
-<p>The prohibitive cost of academic journals means that many of the readings for this course are not available to everyone.  I have marked these closed access articles with a <img src="images/closed.png" height="12">.  Fortunately, some of the more recent scholarship in this area is freely available to everyone in the world. I have marked these open access article with a <img src="images/open.png" height="12">.  It is my hope that eventually I will be able to construct this syllabus using exclusively open access scholarship.  In the meantime, if you do not have access to a university library, copies of many of the closed access articles can be found through <a href="http://scholar.google.com">Google Scholar</a>.</p>
+<p>See the <a href="logistics.shtml">logistics page</a> for more information about <a href="logistics.shtml#time">time and location</a>,  <a href="logistics.shtml#prereqs">prerequisites</a>, <a href="logistics.shtml#collaboration">collaboration policy</a>, <a href="logistics.shtml#piazza">Piazza</a>, <a href="logistics.shtml#grading">grading</a>, and <a href="logistics.shtml#access">open access</a>.</p>
 
 <hr>
 
@@ -76,15 +73,15 @@
 <!-- Overview -->
 
 <ul>
-  <li><a href="http://www.bitbybitbook.com/en/introduction/">Bit by Bit: Social Research in the Digital Age, Chapter 1: Introduction</a>. <a href="#access" class="oa"></a></li>
-  <li><a href="http://www.bitbybitbook.com/en/ethics/">Bit by Bit: Social Research in the Digital Age, Chapter 6: Ethics</a>. <a href="#access" class="oa"></a></li>
+  <li><a href="http://www.bitbybitbook.com/en/preface/">Bit by Bit: Social Research in the Digital Age, Preface</a>. <a href="logistics.shtml#access" class="oa"></a></li>
+  <li><a href="http://www.bitbybitbook.com/en/introduction/">Bit by Bit: Social Research in the Digital Age, Chapter 1: Introduction</a>. <a href="logistics.shtml#access" class="oa"></a></li>
+  <li><a href="http://www.bitbybitbook.com/en/ethics/">Bit by Bit: Social Research in the Digital Age, Chapter 6: Ethics</a>. <a href="logistics.shtml#access" class="oa"></a></li>
 </ul>
 
 <ul>
   <li>Anderson. 2008. <a href="http://www.wired.com/science/discoveries/magazine/16-07/pb_theory">The end of theory: The data deluge makes the scientific method obsolete.</a> <i>Wired</i>. <a href="#access" class="oa"></a></li>
   <li>Donoho. 2015. <a href="http://courses.csail.mit.edu/18.337/2015/docs/50YearsDataScience.pdf">50 years of data science.</a> <i>Working paper</i>. <a href="#access" class="oa"></a></li>
   <li>Provost and Fawcett. 2013. <a href="http://dx.doi.org/10.1089/big.2013.1508">Data Science and its relationship to big data and data-driven decision making.</a> <i>Big Data</i>. <a href="#access" class="ca"></a></li>
-  <li>Wallach. 2015. <a href="http://videolectures.net/icml2015_wallach_social_science/">Computational Social Science</a>, Presented at International Conference on Machine Learning (ICML). Please watch part 1 and part 2. <a href="#access" class="oa"></a></li>
 </ul>
 
 <hr>
