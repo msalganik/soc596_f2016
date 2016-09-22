@@ -18,12 +18,13 @@
     <br />
     <h5>Tuesday 2pm-5pm (first half of semester)</h5>
     <h5>165 Wallace Hall</h5>
+    <h5>Course materials: https://github.com/msalganik/soc596_f2016</h5>
     <h5>Instructor: <a href="http://www.princeton.edu/~mjs3/">Matthew Salganik</a></h5>
     </div>
 <hr>
 
 <h2>Overview</h2>
-<p>Changes in technology---specifically the transition from the analog age to the digital age---mean that we can now collect and analyze social data in new ways. This class is about doing social research in these new ways.  Unlike some other courses on computational social science, this course will emphasize "social science" and de-emphasize "computation."  We will focus on how traditional concepts of research design in the social sciences can inform our understanding of new data sources, and how these new data sources might require us to update our thinking on research design.  The course should be helpful for social scientists that want to do more data science and data scientists that want to do more social science.</p>
+<p>Changes in technology---specifically the transition from the analog age to the digital age---mean that we can now collect and analyze social data in new ways. This six week mini-class is about doing social research in these new ways.  Unlike some other courses on computational social science, this course will emphasize "social science" and de-emphasize "computation."  We will focus on how traditional concepts of research design in the social sciences can inform our understanding of new data sources, and how these new data sources might require us to update our thinking on research design.  The course should be helpful for social scientists that want to do more data science and data scientists that want to do more social science.</p>
 
 <h4>Course goals and learning objectives</h4>
   <ol>
@@ -62,7 +63,7 @@
 <p>In general, the class will be a mix of professor-led discussion and student-led discussion.  As the semester progresses, I will expect the students to take an increasingly active role in the course.</p>
 
 <h4>Logistics</h4>
-<p>See the <a href="logistics.shtml">logistics page</a> for more information about <a href="logistics.shtml#time">time and location</a>,  <a href="logistics.shtml#prereqs">prerequisites</a>, <a href="logistics.shtml#collaboration">collaboration policy</a>, <a href="logistics.shtml#piazza">Piazza</a>, <a href="logistics.shtml#grading">grading</a>, and <a href="logistics.shtml#access">open access</a>.</p>
+<p>See the <a href="logistics.shtml">logistics page</a> for more information about <a href="logistics.shtml#time">time and location</a>,  <a href="logistics.shtml#prereqs">prerequisites</a>, <a href="logistics.shtml#collaboration">collaboration policy</a>, <a href="logistics.shtml#piazza">Piazza</a>, <a href="logistics.shtml#grading">grading</a>, and <a href="logistics.shtmllogistics.shtml#access">open access</a>.</p>
 
 <hr>
 
@@ -91,29 +92,29 @@
 <p>Human behavior in the digital age often leaves behind traces, and these traces are being aggregated by companies and governments on a massive scale.  This week we will discuss the strengths and weaknesses of using these big data sources for social research.  Then, I'll describe three approaches that can help you learn from these big data sources: counting things, forecasting, and approximating experiments.</p>
 
 <ul>
-  <li><a href="http://www.bitbybitbook.com/en/introduction/">Bit by Bit: Social Research in the Digital Age, Chapter 2: Observing behavior.</a> <a href="#access" class="oa"></a></li>
+  <li><a href="http://www.bitbybitbook.com/en/introduction/">Bit by Bit: Social Research in the Digital Age, Chapter 2: Observing behavior.</a> <a href="logistics.shtml#access" class="oa"></a></li>
 </ul>
 
 <!-- Counting things -->
 <ul>
-  <li>Farber. 2015. <a href="http://dx.doi.org/10.1093/qje/qjv026">Why you Can't Find a Taxi in the Rain and Other Labor Supply Lessons from Cab Drivers.</a> <i>Quarterly Journal of Economics</i>. <a href="#access" class="ca"></a></li> [<a href="ftp://ftp.iza.org/RePEc/Discussionpaper/dp8562.pdf">open version</a>]
+  <li>Farber. 2015. <a href="http://dx.doi.org/10.1093/qje/qjv026">Why you Can't Find a Taxi in the Rain and Other Labor Supply Lessons from Cab Drivers.</a> <i>Quarterly Journal of Economics</i>. <a href="logistics.shtml#access" class="ca"></a></li> [<a href="ftp://ftp.iza.org/RePEc/Discussionpaper/dp8562.pdf">open version</a>]
 </ul>
 
 <!-- Forecasting -->
 <ul>
-  <li>Helft. 2008. <a href="http://www.nytimes.com/2008/11/12/technology/internet/12flu.html">Google Uses Searches to Track Flu's Spread.</a> <i>New York Times</i>. <a href="#access" class="oa"></a></li>
-  <li>Ginsberg et al. 2008. <a href="http://static.googleusercontent.com/media/research.google.com/en/us/archive/papers/detecting-influenza-epidemics.pdf">Detecting influenza epidemics using search engine query data.</a> <i>Nature</i>. <a href="#access" class="oa"></a></li>
-  <li>Goel et al. 2010. <a href="http://dx.doi.org/10.1073/pnas.1005962107">Predicting consumer behavior with Web search.</a> <i>PNAS</i>. <a href="#access" class="oa"></a></li>
-  <li>Lazer et al. 2014. <a href="http://gking.harvard.edu/files/gking/files/0314policyforumff.pdf">The Parable of Google Flu: Traps in Big Data Analysis.</a> <i>Science</i>. <a href="#access" class="oa"></a></li>
-  <li>Yang et al. 2015. <a href="http://dx.doi.org/10.1073/pnas.1515373112">Accurate estimation of influenza epidemics using Google search data via ARGO.</a> <i>PNAS</i>. <a href="#access" class="ca"></a> [<a href="http://arxiv.org/abs/1505.00864">open version</a>]
-  <li><a href="http://www.google.com/trends/correlate/comic">Google Correlate: The Comic Book.</a> <a href="#access" class="oa"></a></li>
-  <li>Spend 2 minutes playing with <a href="http://www.google.com/trends/">Google Trends</a>. <a href="#access" class="oa"></a></li>
-  <li>Spend 2 minutes playing with <a href="http://www.google.com/trends/correlate">Google Correlate</a>. <a href="#access" class="oa"></a></li>
+  <li>Helft. 2008. <a href="http://www.nytimes.com/2008/11/12/technology/internet/12flu.html">Google Uses Searches to Track Flu's Spread.</a> <i>New York Times</i>. <a href="logistics.shtml#access" class="oa"></a></li>
+  <li>Ginsberg et al. 2008. <a href="http://static.googleusercontent.com/media/research.google.com/en/us/archive/papers/detecting-influenza-epidemics.pdf">Detecting influenza epidemics using search engine query data.</a> <i>Nature</i>. <a href="logistics.shtml#access" class="oa"></a></li>
+  <li>Goel et al. 2010. <a href="http://dx.doi.org/10.1073/pnas.1005962107">Predicting consumer behavior with Web search.</a> <i>PNAS</i>. <a href="logistics.shtml#access" class="oa"></a></li>
+  <li>Lazer et al. 2014. <a href="http://gking.harvard.edu/files/gking/files/0314policyforumff.pdf">The Parable of Google Flu: Traps in Big Data Analysis.</a> <i>Science</i>. <a href="logistics.shtml#access" class="oa"></a></li>
+  <li>Yang et al. 2015. <a href="http://dx.doi.org/10.1073/pnas.1515373112">Accurate estimation of influenza epidemics using Google search data via ARGO.</a> <i>PNAS</i>. <a href="logistics.shtml#access" class="ca"></a> [<a href="http://arxiv.org/abs/1505.00864">open version</a>]
+  <li><a href="http://www.google.com/trends/correlate/comic">Google Correlate: The Comic Book.</a> <a href="logistics.shtml#access" class="oa"></a></li>
+  <li>Spend 2 minutes playing with <a href="http://www.google.com/trends/">Google Trends</a>. <a href="logistics.shtml#access" class="oa"></a></li>
+  <li>Spend 2 minutes playing with <a href="http://www.google.com/trends/correlate">Google Correlate</a>. <a href="logistics.shtml#access" class="oa"></a></li>
 </ul>
 
 <!-- Approximating experiments -->
 <ul>
-  <li>Mas and Moretti. 2009. <a href="http://eml.berkeley.edu/~moretti/text20.pdf">Peers at Work.</a> <i>American Economic Review</i>. <a href="#access" class="oa"></a></li>
+  <li>Mas and Moretti. 2009. <a href="http://eml.berkeley.edu/~moretti/text20.pdf">Peers at Work.</a> <i>American Economic Review</i>. <a href="logistics.shtml#access" class="oa"></a></li>
 </ul>
 
 <hr>
@@ -123,27 +124,27 @@
 <p>This week I'll begin by explaining that big data sources will not replace surveys.  In fact, the abundance of big data sources increases---not decreases---the value of surveys. Given that motivation, I’ll summarize the total survey error framework that was developed during the first two eras of survey research. This framework enables us to understand new approaches to representation (e.g., non-probability samples) and new approaches to measurement (e.g., new ways of asking questions to respondents). Finally, I’ll describe two research templates for linking survey data to big data sources.</p>
 
 <ul>
-  <li><a href="http://www.bitbybitbook.com/en/running-experiments/">Bit by Bit: Social Research in the Digital Age, Chapter 3: Asking questions.</a> <a href="#access" class="oa"></a></li>
+  <li><a href="http://www.bitbybitbook.com/en/running-experiments/">Bit by Bit: Social Research in the Digital Age, Chapter 3: Asking questions.</a> <a href="logistics.shtml#access" class="oa"></a></li>
 </ul>
 
 <!-- Representation -->
 <ul>
-  <li>Wang et al. 2015. <a href="http://dx.doi.org/10.1016/j.ijforecast.2014.06.001">Forecasting elections with non-representative polls.</a> <i>International Journal of Forecasting.</i> <a href="#access" class="ca"></a></li>
+  <li>Wang et al. 2015. <a href="http://dx.doi.org/10.1016/j.ijforecast.2014.06.001">Forecasting elections with non-representative polls.</a> <i>International Journal of Forecasting.</i> <a href="logistics.shtml#access" class="ca"></a></li>
 </ul>
 
 <!-- Measurement -->
 <ul>
-  <li>Salganik and Levy 2015. <a href="http://dx.doi.org/10.1371/journal.pone.0123483">Wiki Survey: Open and Quantifiable Social Data Collection.</a> <i>PLoS ONE</i>. <a href="#access" class="oa"></a> [<a href="http://opr.princeton.edu/archive/ws/">replication data and code</a>]</li>
+  <li>Salganik and Levy 2015. <a href="http://dx.doi.org/10.1371/journal.pone.0123483">Wiki Survey: Open and Quantifiable Social Data Collection.</a> <i>PLoS ONE</i>. <a href="logistics.shtml#access" class="oa"></a> [<a href="http://opr.princeton.edu/archive/ws/">replication data and code</a>]</li>
 </ul>
 
 <!-- Linking -->
 <ul>
-  <li>Blumenstock. 2014. <a href="https://escholarship.org/uc/item/8zs63942">Calling for Better Measurement: Estimating an Individuals Wealth and Well-Being from Mobile Phone Transaction Records.</a> <i>ACM Conference on Knowledge Discovery and Mining (KDD), Workshop on Data Science for Social Good</i>. <a href="#access" class="oa"></a></li>
-  <li>Blumenstock et al. 2015. <a href="http://dx.doi.org/10.1126/science.aac4420">Predicting Poverty and Wealth from Mobile Phone Metadata.</a> <i>Science</i>. <a href="#access" class="ca"></a>
-  <li>Kahn et al. 2015. <a href="http://dx.doi.org/10.1109/BigDataCongress.2015.107">Behavioral Modeling for Churn Prediction: Early Indicators and Accurate Predictors of Custom Defection and Loyalty.</a> <i>2015 IEEE International Congress on Big Data.</i> <a href="#access" class="oa"></a> (SKIM)</li>
-  <li>Blumenstock 2016. <a href="http://dx.doi.org/10.1126/science.aah5217">Fighting poverty with data.</a> <i>Science.</i> <a href="#access" class="ca"></a></li>
-  <li>LeCun et al. 2015. <a href="http://dx.doi.org/10.1038/nature14539">Deep learning.</a> <i>Nature</i>. <a href="#access" class="ca"></a></li>
-  <li>Jean et al. 2016. <a href="http://dx.doi.org/10.1126/science.aaf7894">Combining satellite imagery and machine learning to predict poverty.</a> <i>Science.</i> <a href="#access" class="ca"></a></li>
+  <li>Blumenstock. 2014. <a href="https://escholarship.org/uc/item/8zs63942">Calling for Better Measurement: Estimating an Individuals Wealth and Well-Being from Mobile Phone Transaction Records.</a> <i>ACM Conference on Knowledge Discovery and Mining (KDD), Workshop on Data Science for Social Good</i>. <a href="logistics.shtml#access" class="oa"></a></li>
+  <li>Blumenstock et al. 2015. <a href="http://dx.doi.org/10.1126/science.aac4420">Predicting Poverty and Wealth from Mobile Phone Metadata.</a> <i>Science</i>. <a href="logistics.shtml#access" class="ca"></a>
+  <li>Kahn et al. 2015. <a href="http://dx.doi.org/10.1109/BigDataCongress.2015.107">Behavioral Modeling for Churn Prediction: Early Indicators and Accurate Predictors of Custom Defection and Loyalty.</a> <i>2015 IEEE International Congress on Big Data.</i> <a href="logistics.shtml#access" class="oa"></a> (SKIM)</li>
+  <li>Blumenstock 2016. <a href="http://dx.doi.org/10.1126/science.aah5217">Fighting poverty with data.</a> <i>Science.</i> <a href="logistics.shtml#access" class="ca"></a></li>
+  <li>LeCun et al. 2015. <a href="http://dx.doi.org/10.1038/nature14539">Deep learning.</a> <i>Nature</i>. <a href="logistics.shtml#access" class="ca"></a></li>
+  <li>Jean et al. 2016. <a href="http://dx.doi.org/10.1126/science.aaf7894">Combining satellite imagery and machine learning to predict poverty.</a> <i>Science.</i> <a href="logistics.shtml#access" class="ca"></a></li>
 </ul>
 
 <hr>
@@ -155,28 +156,28 @@
 <!-- Overview -->
 
 <ul>
-  <li><a href="http://www.bitbybitbook.com/en/running-experiments/">Bit by Bit: Social Research in the Digital Age, Chapter 4: Running experiments.</a> <a href="#access" class="oa"></a></li>
+  <li><a href="http://www.bitbybitbook.com/en/running-experiments/">Bit by Bit: Social Research in the Digital Age, Chapter 4: Running experiments.</a> <a href="logistics.shtml#access" class="oa"></a></li>
 </ul>
 
 <!-- Use existing environments -->
 <ul>
-  <li>van de Rijt et al. 2014. <a href="http://dx.doi.org/10.1073/pnas.1316836111">Field Experiments of Success-Breeds-Success Dynamics.</a> <i>PNAS</i>. <a href="#access" class="oa"></a></li>
-  <li>Doleac and Stein. 2013. <a href="http://dx.doi.org/10.1111/ecoj.12082">The Visible Hand: Race and Online Market Outcomes.</a> <i>The Economic Journal.</i> <a href="#access" class="ca"></a> [<a href="http://onlinelibrary.wiley.com/doi/10.1111/ecoj.12082/suppinfo">replication data and code</a>]</li>
+  <li>van de Rijt et al. 2014. <a href="http://dx.doi.org/10.1073/pnas.1316836111">Field Experiments of Success-Breeds-Success Dynamics.</a> <i>PNAS</i>. <a href="logistics.shtml#access" class="oa"></a></li>
+  <li>Doleac and Stein. 2013. <a href="http://dx.doi.org/10.1111/ecoj.12082">The Visible Hand: Race and Online Market Outcomes.</a> <i>The Economic Journal.</i> <a href="logistics.shtml#access" class="ca"></a> [<a href="http://onlinelibrary.wiley.com/doi/10.1111/ecoj.12082/suppinfo">replication data and code</a>]</li>
 </ul>
 
 <!-- Build your own experiment -->
 <ul>
-  <li>Salganik et al. 2006. <a href="http://dx.doi.org/10.1126/science.1121066">Experimental study of inequality and unpredictability in an artificial cultural market.</a> <i>Science</i>. <a href="#access" class="ca"></a> [<a href="http://opr.princeton.edu/archive/cm/">replication data</a>]</li>
+  <li>Salganik et al. 2006. <a href="http://dx.doi.org/10.1126/science.1121066">Experimental study of inequality and unpredictability in an artificial cultural market.</a> <i>Science</i>. <a href="logistics.shtml#access" class="ca"></a> [<a href="http://opr.princeton.edu/archive/cm/">replication data</a>]</li>
 </ul>
 
 <!-- Build your own product -->
 <ul>
-   <li>Harper and Konstan. 2016. <a href="http://dx.doi.org/10.1145/2827872">The MovieLens Datasets: History and Context.</a> <i>ACM Transactions on Interactive Intelligent Systems (TiiS)</i>. <a href="#access" class="ca"></a> [<a href="http://files.grouplens.org/papers/harper-tiis2015.pdf">open version</a>]
+   <li>Harper and Konstan. 2016. <a href="http://dx.doi.org/10.1145/2827872">The MovieLens Datasets: History and Context.</a> <i>ACM Transactions on Interactive Intelligent Systems (TiiS)</i>. <a href="logistics.shtml#access" class="ca"></a> [<a href="http://files.grouplens.org/papers/harper-tiis2015.pdf">open version</a>]
 </ul>
 
 <!-- Partner with the powerful -->
 <ul>
-  <li>Kramer et al. 2014. <a href="http://dx.doi.org/10.1073/pnas.1320040111">Experimental evidence of massive-scale emotional contagion through social networks.</a> <i>PNAS</i>. <a href="#access" class="oa"></a></li>
+  <li>Kramer et al. 2014. <a href="http://dx.doi.org/10.1073/pnas.1320040111">Experimental evidence of massive-scale emotional contagion through social networks.</a> <i>PNAS</i>. <a href="logistics.shtml#access" class="oa"></a></li>
 </ul>
 
 <hr>
@@ -187,23 +188,23 @@
 
 <!-- Overview -->
 <ul>
-  <li><a href="http://www.bitbybitbook.com/en/mass-collaboration/">Bit by Bit: Social Research in the Digital Age, Chapter 5: Mass collaboration.</a> <a href="#access" class="oa"></a></li>
+  <li><a href="http://www.bitbybitbook.com/en/mass-collaboration/">Bit by Bit: Social Research in the Digital Age, Chapter 5: Mass collaboration.</a> <a href="logistics.shtml#access" class="oa"></a></li>
 </ul>
 
 <!-- Mass collaboration -->
 <ul>
-  <li>Benoit et al. 2015. <a href="http://www.kenbenoit.net/pdfs/Crowd_sourced_data_coding_APSR.pdf">Crowd-Sourced Text Analysis: Reproducible and Agile Production of Political Data.</a> <i>American Political Science Review</i>. <a href="#access" class="oa"></a></li>
+  <li>Benoit et al. 2015. <a href="http://www.kenbenoit.net/pdfs/Crowd_sourced_data_coding_APSR.pdf">Crowd-Sourced Text Analysis: Reproducible and Agile Production of Political Data.</a> <i>American Political Science Review</i>. <a href="logistics.shtml#access" class="oa"></a></li>
 </ul>
 
 <!-- Open call -->
 <ul>
-  <li>Bell et al. 2010. <a href="http://dx.doi.org/10.1080/09332480.2010.10739787">All Together Now: A Perspective on the Netflix Prize.</a> <i>Chance</i>. <a href="#access" class="ca"></a></li>
-  <li>Glaeser et al. 2016. <a href="http://dx.doi.org/10.1257/aer.p20161027">Crowdsourcing City Government: Using Tournaments to Improve Inspection Accuracy.</a> <i>American Economic Review</i>. <a href="#access" class="ca"></a></li>
+  <li>Bell et al. 2010. <a href="http://dx.doi.org/10.1080/09332480.2010.10739787">All Together Now: A Perspective on the Netflix Prize.</a> <i>Chance</i>. <a href="logistics.shtml#access" class="ca"></a></li>
+  <li>Glaeser et al. 2016. <a href="http://dx.doi.org/10.1257/aer.p20161027">Crowdsourcing City Government: Using Tournaments to Improve Inspection Accuracy.</a> <i>American Economic Review</i>. <a href="logistics.shtml#access" class="ca"></a></li>
 </ul>
 
 <!-- Distributed data collection -->
 <ul>
-  <li>Tuite et al. 2011. <a href="https://homes.cs.washington.edu/~ktuite/photocity-chi2011.pdf">PhotoCity: Training Experts at Large-scale Image Acquisition Through a Competitive Game.</a> <i>CHI</i>. <a href="#access" class="oa"></a></li>
+  <li>Tuite et al. 2011. <a href="https://homes.cs.washington.edu/~ktuite/photocity-chi2011.pdf">PhotoCity: Training Experts at Large-scale Image Acquisition Through a Competitive Game.</a> <i>CHI</i>. <a href="logistics.shtml#access" class="oa"></a></li>
 </ul>
 
 <hr>
