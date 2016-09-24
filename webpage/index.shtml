@@ -100,7 +100,7 @@
 <p>Human behavior in the digital age often leaves behind traces, and these traces are being aggregated by companies and governments on a massive scale.  This week we will discuss the strengths and weaknesses of using these big data sources for social research.  Then, I'll describe three approaches that can help you learn from these big data sources: counting things, forecasting, and approximating experiments.</p>
 
 <ul>
-  <li><a href="http://www.bitbybitbook.com/en/introduction/">Bit by Bit: Social Research in the Digital Age, Chapter 2: Observing behavior.</a> <a href="logistics.shtml#access" class="oa"></a></li>
+  <li><a href="http://www.bitbybitbook.com/en/observing-behavior/">Bit by Bit: Social Research in the Digital Age, Chapter 2: Observing behavior.</a> <a href="logistics.shtml#access" class="oa"></a></li>
 </ul>
 
 <!-- Counting things -->
@@ -137,7 +137,7 @@
 <p>This week I'll begin by explaining that big data sources will not replace surveys.  In fact, the abundance of big data sources increases---not decreases---the value of surveys. Given that motivation, I’ll summarize the total survey error framework that was developed during the first two eras of survey research. This framework enables us to understand new approaches to representation (e.g., non-probability samples) and new approaches to measurement (e.g., new ways of asking questions to respondents). Finally, I’ll describe two research templates for linking survey data to big data sources.</p>
 
 <ul>
-  <li><a href="http://www.bitbybitbook.com/en/running-experiments/">Bit by Bit: Social Research in the Digital Age, Chapter 3: Asking questions.</a> <a href="logistics.shtml#access" class="oa"></a></li>
+  <li><a href="http://www.bitbybitbook.com/en/asking-questions/">Bit by Bit: Social Research in the Digital Age, Chapter 3: Asking questions.</a> <a href="logistics.shtml#access" class="oa"></a></li>
 </ul>
 
 <!-- Representation -->
