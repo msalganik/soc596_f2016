@@ -40,7 +40,7 @@ Rain dance problems vs umbrella problems (Kleinberg et al 2015)
 \begin{frame}
 
 \begin{center}
-\includegraphics[width=\textwidth]{figures/hype_cycle}
+\includegraphics[width=0.7\textwidth]{figures/hype_cycle}
 \end{center}
 
 \vf
@@ -71,7 +71,7 @@ Annual Symposium Proceedings, \url{http://www.ncbi.nlm.nih.gov/pmc/articles/PMC1
 \begin{center}
 \only<1>{\includegraphics[width=\textwidth]{figures/eysenbach_infodemiology_2006_trick}}
 \only<2>{\includegraphics[width=\textwidth]{figures/eysenbach_infodemiology_2006_ad}}
-\only<3>{\includegraphics[width=\textwidth]{figures/eysenbach_infodemiology_2006_fig1}}
+\only<3>{\includegraphics[width=0.8\textwidth]{figures/eysenbach_infodemiology_2006_fig1}}
 \end{center}
 
 \end{frame}
@@ -111,7 +111,7 @@ Note that they had access to raw search data from Yahoo!
 \begin{frame}
 
 \begin{center}
-\includegraphics[width=\textwidth]{figures/polgreen_using_2008_fig1}
+\includegraphics[width=0.8\textwidth]{figures/polgreen_using_2008_fig1}
 \end{center}
 
 \end{frame}
@@ -145,7 +145,7 @@ Over-fitting
 \begin{frame}
 
 \begin{center}
-\includegraphics[width=0.8\textwidth]{figures/overfitted_data}
+\includegraphics[width=0.5\textwidth]{figures/overfitted_data}
 \end{center}
 
 \textcolor{green}{Which line fits the data better?}
@@ -187,7 +187,7 @@ Then, find sets of keywords that work well together
 \begin{frame}
 
 \begin{center}
-\includegraphics[width=\textwidth]{figures/ginsberg_detecting_2009_tab1}
+\includegraphics[width=0.7\textwidth]{figures/ginsberg_detecting_2009_tab1}
 \end{center}
 
 \end{frame}
@@ -202,7 +202,7 @@ In-sample testing vs out-of-sample testing
 \begin{frame}
 
 \begin{center}
-\includegraphics[width=\textwidth]{figures/ginsberg_detecting_2009_fig2_insample}
+\includegraphics[width=0.8\textwidth]{figures/ginsberg_detecting_2009_fig2_insample}
 \end{center}
 
 \end{frame}
@@ -210,7 +210,7 @@ In-sample testing vs out-of-sample testing
 \begin{frame}
 
 \begin{center}
-\includegraphics[width=\textwidth]{figures/ginsberg_detecting_2009_fig2}
+\includegraphics[width=0.8\textwidth]{figures/ginsberg_detecting_2009_fig2}
 \end{center}
 
 \end{frame}
@@ -218,7 +218,7 @@ In-sample testing vs out-of-sample testing
 \begin{frame}
 
 \begin{center}
-\includegraphics[width=0.6\textwidth]{figures/ginsberg_detecting_2009_fig3}
+\includegraphics[width=0.5\textwidth]{figures/ginsberg_detecting_2009_fig3}
 \end{center}
 
 \end{frame}
@@ -262,8 +262,8 @@ Researchers selected key-words (Polgreen et al., 2008)
 Data-driven keyword selection (Ginsberg et al., 2009)
 \begin{itemize}
 \item generalized to every time-series all over the world
-\item potentially discovers surpassingly good predictors (e.g., antibiotic related queries)
-\item risks over-fitting 
+\item potentially discovers surprisingly good predictors (e.g., antibiotic related queries)
+\item increases risks over-fitting 
 \item requires lots of data and computing
 \end{itemize}
 
@@ -297,7 +297,7 @@ Data-driven keyword selection (Ginsberg et al., 2009)
 \end{center}
 
 \vf
-\vspace{0.5in}
+\vspace{0.3in}
 \TINY{\url{https://commons.wikimedia.org/wiki/File:Duchamp_Fountaine.jpg}}\\
 \TINY{\url{https://commons.wikimedia.org/wiki/File:\%27David\%27_by_Michelangelo_JBU0001.JPG}}
 
@@ -309,7 +309,8 @@ Data-driven keyword selection (Ginsberg et al., 2009)
 \includegraphics[width=\textwidth]{figures/goel_predicting_2010_title}
 \end{center}
 
-Goel et al 2010.
+\vf
+Goel et al. 2010. ``Predicting consumer behavior with web search.'' \textit{PNAS}, \url{http://dx.doi.org/XXX}
 
 \end{frame}
 %%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -342,9 +343,11 @@ Did this change how you think about Ginsberg et al 2009?
 \begin{frame}
 
 Can search predict revenue?
+\pause
 \begin{center}
 \includegraphics[width=\textwidth]{figures/goel_predicting_2010_fig2a-c}
 \end{center}
+\pause
 \vf
 Wrong question
 
@@ -353,9 +356,11 @@ Wrong question
 \begin{frame}
 
 How much can search improve simple baseline prediction?
+\pause
 \begin{center}
-\includegraphics[width=\textwidth]{figures/goel_predicting_2010_fig3}
+\includegraphics[width=0.6\textwidth]{figures/goel_predicting_2010_fig3}
 \end{center}
+\pause
 \vf
 Right question
 
@@ -364,7 +369,7 @@ Right question
 \begin{frame}
 
 \begin{center}
-\includegraphics[width=\textwidth]{figures/goel_predicting_2010_fig5}
+\includegraphics[width=0.6\textwidth]{figures/goel_predicting_2010_fig5}
 \end{center}
 
 \end{frame}
@@ -464,7 +469,7 @@ Lazer et al (2014) ``The Parable of Google Flu: Traps in Big Data Analysis.'' \t
 \textcolor{green}{What are the differences between these plots?}
 
 \begin{center}
-\includegraphics[width=\textwidth]{figures/lazer_parable_2014_fig1}
+\includegraphics[width=0.7\textwidth]{figures/lazer_parable_2014_fig1}
 \end{center}
 
 \end{frame}
@@ -483,19 +488,7 @@ Adding recommended searches to increase health related queries
 %%%%%%%%%%%%%%%%%%%%%%%%%%
 \begin{frame}
 
-\begin{itemize}
-\item Big data hubris\\
-Basically not paying attention
-\pause
-\item Algorithm dynamics (combines what I called algorithmic confounding and drift)\\
-Adding recommended searches to increase health related queries
-\end{itemize}
-
-\end{frame}
-%%%%%%%%%%%%%%%%%%%%%%%%%%
-\begin{frame}
-
-Projecting from the past to the present only works if nothing in the world changes; there is no model, no mechanism for understanding; this is blind curve-fitting
+Projecting from the past to the future only works if nothing in the world changes; there is no model, no mechanism for understanding; this is blind curve-fitting
 
 \end{frame}
 %%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -533,7 +526,7 @@ Yang et al (2015) ``Accurate estimation of influenza epidemics using Google sear
 \begin{frame}
 
 \begin{center}
-\includegraphics[width=\textwidth]{figures/yang_accurate_2015_tab1}
+\includegraphics[width=0.6\textwidth]{figures/yang_accurate_2015_tab1}
 \end{center}
 
 Note the clear comparison against other methods by clear metrics
@@ -543,7 +536,7 @@ Note the clear comparison against other methods by clear metrics
 \begin{frame}
 
 \begin{center}
-\includegraphics[width=\textwidth]{figures/yang_accurate_2015_eq2}
+\includegraphics[width=0.6\textwidth]{figures/yang_accurate_2015_eq2}
 \end{center}
 
 Combines:
