@@ -127,7 +127,13 @@
 
 <h5>Slides</h5>
 <ul>
-  <li>Coming soon</li>
+  <li><a href="https://github.com/msalganik/soc596_f2016/blob/master/slides/02-01-logistics.pdf">Logistics</a></li>
+  <li><a href="https://github.com/msalganik/soc596_f2016/blob/master/slides/02-02-big-data.pdf">Big data</a></li>
+  <li><a href="https://github.com/msalganik/soc596_f2016/blob/master/slides/02-03-big-data-characteristics.pdf">Characteristics of big data</a></li>
+  <li><a href="https://github.com/msalganik/soc596_f2016/blob/master/slides/02-04-counting-things.pdf">Counting things</a></li>
+  <li><a href="https://github.com/msalganik/soc596_f2016/blob/master/slides/02-05-forecasting.pdf">Forecasting</a></li>
+  <li><a href="https://github.com/msalganik/soc596_f2016/blob/master/slides/02-06-approximating-experiments.pdf">Approximating experiments</a></li>
+  <li><a href="https://github.com/msalganik/soc596_f2016/blob/master/slides/02-07-preview-of-next-week.pdf">Preview of next week</a></li>
 </ul>
 
 <hr>
