@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<!--#include file="header.html"-->
+
+<body>
+
+  <!--#include file="navbar.html"-->
+
+  <div class="container">
+
+    <h2>Annotation</h2>
+
+    <p>While you are reading <a href="http;//www.bitbybitbook.com">Bit by Bit: Social Research in the Digital Age</a> you will also be making annotations using <a href="https://hypothes.is/">hypothes.is</a>.  For the annotations, try to identify passages that you find particularly confusing or exciting, and try to explain why they are confusing or exciting.  Or, try to highlight important connections between ideas that you think are not explained clearly.  Or, try to argue that some of the claims in the manuscript need to be modified.  Ideally, your annotations should be about more than typos and grammatical errors (although that is certainly helpful too).  The annotation should be completed Sunday at midnight for material that we will discuss on Tuesday.</p>
+
+    <p>When you do your annotations, please be sure to put them in our class group (see image below).  And, here's more information about using <a href="https://hypothes.is/annotating-with-groups/">hypothes.is with groups</a>.</p>
+
+    <img class="img-responsive" src="images/group_annotation.png" alt="Annotation Screenshot", style="width:800px">
+
+
+    <br />
+    <br />
+
+    <!--#include file="footer.html"-->
+
+  </div>
+  <!-- /container -->
+
+</html>
