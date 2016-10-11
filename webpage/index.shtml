@@ -212,7 +212,15 @@
 
 <h5>Slides</h5>
 <ul>
-  <li>Coming soon</li>
+    <li><a href="https://github.com/msalganik/soc596_f2016/blob/master/slides/04-01-logistics.pdf">Logistics</a></li>
+    <li><a href="https://github.com/msalganik/soc596_f2016/blob/master/slides/04-02-what-are-experiments.pdf">What are experiments?</a></li>
+    <li><a href="https://github.com/msalganik/soc596_f2016/blob/master/slides/04-03-two-dimensions-of-experiments.pdf">Two dimensions of experiments</a></li>
+    <li><a href="https://github.com/msalganik/soc596_f2016/blob/master/slides/04-04-moving-beyond-simple-experiments.pdf">Moving beyond simple experiments</a></li>
+    <li><a href="https://github.com/msalganik/soc596_f2016/blob/master/slides/04-05-making-it-happen.pdf">Making it happen</a></li>
+    <li><a href="https://github.com/msalganik/soc596_f2016/blob/master/slides/04-06-zero-variable-cost.pdf">Zero variable cost data</a></li>
+    <li><a href="https://github.com/msalganik/soc596_f2016/blob/master/slides/04-07-three-rs.pdf">Three Rs</a></li>
+    <li><a href="https://github.com/msalganik/soc596_f2016/blob/master/slides/04-08-proposals.pdf">Proposals</a></li>
+  </ul>
 </ul>
 
 <hr>
